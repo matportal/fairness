@@ -1,0 +1,13 @@
+.git
+.github
+target
+*.log
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+.env
+.env.*
+Submission_JWS_OFAIRe_v5.pdf
